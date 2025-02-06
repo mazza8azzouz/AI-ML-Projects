@@ -4,14 +4,14 @@ This repository contains a collection of Artificial Intelligence (AI) and Machin
 
 # 🚀 Topics Covered:
 
-Supervised & Unsupervised Learning
-Deep Learning (CNNs, RNNs, Transformers)
-Natural Language Processing (NLP)
-Reinforcement Learning
-Data Preprocessing & Feature Engineering
-AI-powered Applications
+Supervised & Unsupervised Learning;
+Deep Learning (CNNs, RNNs, Transformers);
+Natural Language Processing (NLP);
+Reinforcement Learning;
+Data Preprocessing & Feature Engineering;
+AI-powered Applications.
 # 💡 Tech Stack:
 
-Programming Language: Python
-Libraries & Frameworks: TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLTK, SpaCy
-Tools: Jupyter Notebook, Pandas, NumPy, Matplotlib
+Programming Language: Python;
+Libraries & Frameworks: TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLTK, SpaCy;
+Tools: Jupyter Notebook, Pandas, NumPy, Matplotlib.
